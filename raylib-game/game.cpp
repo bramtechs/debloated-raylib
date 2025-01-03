@@ -9,6 +9,7 @@ int main(void)
 	{
 		BeginDrawing();
 		ClearBackground(RAYWHITE);
+		DrawFPS(10, 10);
 		EndDrawing();
 	}
 

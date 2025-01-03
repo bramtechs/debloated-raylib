@@ -1,9 +1,9 @@
 Debloated repo of [Raylib 5.0](https://github/raysan5/raylib) for
-Windows with Visual Studio solution.
+Windows with Visual Studio solution and simplfied CMake.
 
 ## Things removed
 
-Documentation, cmake, zig build and examples.
+Documentation, zig build and examples.
 
 ## Things not removed
 
